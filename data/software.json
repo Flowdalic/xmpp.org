@@ -1165,6 +1165,15 @@
         "categories": [
             "library"
         ],
+        "doap": "https://raw.githubusercontent.com/igniterealtime/jxmpp/refs/heads/master/jxmpp.doap"
+        "name": "jxmpp",
+        "platforms": [],
+        "url": null
+    },
+    {
+        "categories": [
+            "library"
+        ],
         "doap": null,
         "name": "ObjXMPP",
         "platforms": [
@@ -1517,7 +1526,7 @@
         "platforms": [],
         "url": null
     },
-    {
+   {
         "categories": [
             "client"
         ],
